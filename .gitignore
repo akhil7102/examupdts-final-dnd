@@ -1,0 +1,15 @@
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Vite build output
+dist/
+build/
+
+# Vercel
+.vercel/
+
+# Misc
+.DS_Store
+Thumbs.db
